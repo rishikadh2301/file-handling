@@ -18,3 +18,9 @@ This Python script implements and compares different sorting and searching techn
    ```sh
    git clone https://github.com/yourusername/your-repo-name.git
    cd your-repo-name
+
+## EXAMPLE of output
+
+Sorted Small Data: [5, 7, 8, 12, 23, 29, 32, 34, 40, 62]
+Linear search target position: 7   time taken: 140.2 microseconds
+Binary search target position: 7   time taken: 5.6 microseconds
