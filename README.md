@@ -16,7 +16,7 @@ This Python script implements and compares different sorting and searching techn
 1. Ensure you have **Python 3+** installed.
 2. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/rishikadh2301/file-handling.git
    cd your-repo-name
 
 ## EXAMPLE of output
